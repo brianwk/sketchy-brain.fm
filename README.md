@@ -11,6 +11,10 @@ Let me know if you run into any issues.
 ## Why?
 I created this script because SketchyBar alias didn't work well for a timer.
 
+## Future Plan
+
+I will change the script to just send an event to Sketchybar when the timer changes. This will allow people to use this script as they please.
+
 ## Install
 
 Python 3.9+
