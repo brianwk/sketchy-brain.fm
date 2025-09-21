@@ -2,9 +2,11 @@
 
 Creates a Sketchybar item that displays the Brain.fm timer in SketchyBar. I hope someone finds it useful. 
 
-I am very busy, so this script isn't well polished, but I will likely update it sometime in the future to be more polished. 
+I am very busy, so this script isn't well polished, but I will likely update it sometime in the future to be more polished. For example, this is more dependent on my unique setup so you will likely have to fork this script and modify it to get the intended result. 
 
 Let me know if you run into any issues.
+
+![SketchyBar item showing Brain.fm timer](barscreenshot.png)
 
 ## Why?
 I created this script because SketchyBar alias didn't work well for a timer.
