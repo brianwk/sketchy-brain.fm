@@ -30,6 +30,7 @@ brew install sketchybar # if not already installed
 ### Run the timer updater
 
 ```bash
-python test_brain.py```
+python test_brain.py
+```
 
 You must have the Brain.fm application installed obviously. This will automatically run the program with the DevTools running on port 9222. 
